@@ -46,3 +46,7 @@ Online delivery availability positively impacts customer ratings.
 Conclusion
 
 The analysis provides actionable insights into expansion opportunities for Zomato. By leveraging Excel-based data analytics, the project highlights potential high-growth markets and customer-driven trends that can guide strategic business decisions.
+
+Author
+Mohammad Yusuf
+Data Analyst
